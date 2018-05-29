@@ -1,0 +1,15 @@
+{
+  "name": "ib-cli",
+  "version": "1.0.0",
+  "description": "inbit tech cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "font-end",
+    "cli"
+  ],
+  "author": "vayne",
+  "license": "MIT"
+}
